@@ -1,4 +1,4 @@
-# Privacy Policy / Datenschutzerklärung
+# Privacy Policy
 This Privacy Policy provides information on the storage of data collected by the Elli bot, a multifunctional Discord bot.
 
 ## Access to data
